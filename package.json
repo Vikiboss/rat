@@ -1,0 +1,8 @@
+{
+  "name": "@vikiboss/rat",
+  "version": "1.0.0",
+  "description": "random int",
+  "main": "index.js",
+  "author": "Viki <vikiboss@qq.com>",
+  "license": "MIT"
+}
